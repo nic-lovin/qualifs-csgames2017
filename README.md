@@ -4,5 +4,6 @@ C'est le temps des qualifications pour les CS Games 2017! Les qualifications ser
     
 Également, on vous invite à remplir le formulaire suivant: https://goo.gl/CJiJaf    
 
-Plus d'informations viendront sous peu, mais si vous avez des questions, vous pouvez les poser sur le canal #cs-games du Slack.
+Plus d'informations viendront sous peu, mais si vous avez des questions, vous pouvez les poser sur le canal #cs-games du Slack.    
 
+PS: Les qualifications se font individuellement.
